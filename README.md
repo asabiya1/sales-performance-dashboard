@@ -82,6 +82,6 @@ Examines customer behavior and profitability across segments.
 
 
 ## 📬 Author
-**Sulemana Malik**  
+**Sulemana Malik Aluu**  
 Junior Data Analyst | Power BI | Python | Data Visualization
 
